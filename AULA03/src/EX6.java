@@ -1,4 +1,3 @@
-import java.util.Formattable;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -25,8 +24,7 @@ public class EX6 {
                 System.out.println("\nMAIS ACIMA! SEU NUMERO FOI MENOR QUE O GERADO");
 
 
-            }
-
         }
+
     }
 }
