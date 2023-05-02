@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a80988d5-516b-437c-a367-b3e8b2ab9460" name="Changes" comment="" />
+    <list default="true" id="a80988d5-516b-437c-a367-b3e8b2ab9460" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AULA08_EX_ARKANOIDE/src/br/inatel/cdg/Conversor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_EX_ARKANOIDE/src/br/inatel/cdg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_EX_ARKANOIDE/src/br/inatel/cdg/bloco/Bloco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_EX_ARKANOIDE/src/br/inatel/cdg/jogador/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/src/Asteroide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_MODIFICADOR_DE_ACESSO/src/Nave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_PACOTES/src/br/inatel/cdg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_PACOTES/src/br/inatel/cdg/matematica/Matematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_PACOTES/src/br/inatel/cdg/outamatematica/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA08_PACOTES/src/br/inatel/cdg/outamatematica/Matematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA09_HERANCA/src/Brownie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA09_HERANCA/src/BrownieCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA09_HERANCA/src/BrownieDoceDeLeite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA09_HERANCA/src/BrownieNutella.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA09_HERANCA/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula-08-Construtores-e-Static/src/br/inatel/cdg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula-08-Construtores-e-Static/src/br/inatel/cdg/inimigo/Asteroide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula-08-Construtores-e-Static/src/br/inatel/cdg/jogador/Nave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AULA01/AULA01.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,13 +55,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/victo/OneDrive/Documentos/GitHub/C206-A"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/OneDrive/Documentos/GitHub/C206-A&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

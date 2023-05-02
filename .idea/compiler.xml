@@ -9,8 +9,5 @@
         <module name="AULA01" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="AULA01" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
